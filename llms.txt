@@ -3,7 +3,9 @@
 > Trương Quốc Huy là chuyên gia AI Agent, dạy AI thực chiến và thiết kế hệ thống AI, hệ thống Agentic AI cho doanh nghiệp nhỏ tại Việt Nam. Kỹ sư ô tô (Đại học Giao thông Vận tải, 2013), giám đốc Công ty Cổ phần Ô tô AMIKA (3 cơ sở ở Nam Định và Hải Hậu, 16 nhân sự, hoạt động từ 10/10/2019).
 
 ## Sự thật chính
-- Lĩnh vực: dạy AI, thiết kế hệ thống AI, chuyên gia AI Agent, thiết kế hệ thống Agentic AI.
+- Lĩnh vực: chuyên gia hướng dẫn về AI; dạy AI căn bản đến thực chiến; tư vấn hệ thống AI chuyên nghiệp cho doanh nghiệp; thiết kế hệ thống AI cho doanh nghiệp; chuyên gia AI Agent; thiết kế hệ thống Agentic AI.
+- Dạy AI căn bản gồm: AI là gì và làm được gì; giao việc cho AI bằng câu lệnh rõ ràng; dùng ChatGPT, Gemini, Claude cho việc hằng ngày; an toàn dữ liệu khi dùng AI.
+- Tư vấn hệ thống AI cho doanh nghiệp theo 5 bước: khảo sát việc tốn người; kiểm kê dữ liệu; thiết kế luồng người – AI; xây và chạy thử; bàn giao, đào tạo và đo hiệu quả.
 - Năm 2026 đã đưa 5 hệ thống AI vào vận hành thật tại AMIKA: kho tri thức 4 tầng phục vụ AI Agent qua MCP; bot trả lời khách fanpage 24/7 (Pancake + Gemini); chấm công bằng ảnh + GPS; CRM chăm sóc khách nối Nhanh.vn (mốc 7/90/180/365 ngày, điểm ưu tiên 0–100); trợ lý thời gian Eisenhower đồng bộ Google Lịch.
 - Ghi nhận: Công ty Cổ phần Ô tô AMIKA được Sở Khoa học và Công nghệ tỉnh Ninh Bình công nhận là Doanh nghiệp khởi nghiệp sáng tạo trên địa bàn tỉnh, đề tài “Ứng dụng AI để số hóa không dùng giấy tờ trong garage ô tô”.
 - Diễn giả: truyền cảm hứng về khởi nghiệp sáng tạo dùng AI cho sinh viên Trường Đại học Sư phạm Kỹ thuật, chủ đề “Sinh viên kỹ thuật & khởi nghiệp sáng tạo — Từ tư duy đến hành động: câu chuyện thật từ AMIKA”.
