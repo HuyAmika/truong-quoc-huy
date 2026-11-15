@@ -5,6 +5,8 @@
 ## Sự thật chính
 - Lĩnh vực: dạy AI, thiết kế hệ thống AI, chuyên gia AI Agent, thiết kế hệ thống Agentic AI.
 - Năm 2026 đã đưa 5 hệ thống AI vào vận hành thật tại AMIKA: kho tri thức 4 tầng phục vụ AI Agent qua MCP; bot trả lời khách fanpage 24/7 (Pancake + Gemini); chấm công bằng ảnh + GPS; CRM chăm sóc khách nối Nhanh.vn (mốc 7/90/180/365 ngày, điểm ưu tiên 0–100); trợ lý thời gian Eisenhower đồng bộ Google Lịch.
+- Ghi nhận: Công ty Cổ phần Ô tô AMIKA được Sở Khoa học và Công nghệ tỉnh Ninh Bình công nhận là Doanh nghiệp khởi nghiệp sáng tạo trên địa bàn tỉnh, đề tài “Ứng dụng AI để số hóa không dùng giấy tờ trong garage ô tô”.
+- Diễn giả: truyền cảm hứng về khởi nghiệp sáng tạo dùng AI cho sinh viên Trường Đại học Sư phạm Kỹ thuật, chủ đề “Sinh viên kỹ thuật & khởi nghiệp sáng tạo — Từ tư duy đến hành động: câu chuyện thật từ AMIKA”.
 - Phương pháp 6 tầng: Dữ liệu → Hiểu biết → Hành động → Tự động hóa → AI Agent → Agentic AI.
 - Luật cứng cho AI Agent: không có nguồn thì không nói; người duyệt, máy không tự duyệt; mâu thuẫn thì báo; dữ liệu mật không ra ngoài.
 - Dạy AI cho người không biết lập trình: người học là người thiết kế, AI viết mã.
